@@ -2,7 +2,7 @@
 
 I must credit Rodrigo for this project. I learned how to build this bridge from his [repo](https://github.com/burgossrodrigo/token_bridge).
 
-This project showcases a how a typical crypto bridge works.
+This project showcases how a typical crypto bridge works.
 
 ## What I learned in this project
 
